@@ -12,6 +12,10 @@ This project is a static landing page that features:
 * 📱 Responsive design for mobile and desktop devices
 * 🎨 Clean and modern layout using HTML, CSS, and JavaScript
 
+## 📷 Screenshots
+
+![UI](Nacpan.webp)
+
 ## 💼 Tech Stack
 
 * **HTML5**
